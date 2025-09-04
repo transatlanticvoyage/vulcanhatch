@@ -1,0 +1,35 @@
+# WordPress core files
+sites/*/wp-admin/
+sites/*/wp-includes/
+sites/*/wp-*.php
+sites/*/xmlrpc.php
+sites/*/license.txt
+sites/*/readme.html
+
+# WordPress config
+sites/*/wp-config.php
+sites/*/.htaccess
+
+# Logs
+logs/*.log
+sites/*/wp-content/debug.log
+sites/*/wp-content/claude-debug.log
+
+# Uploads and cache
+sites/*/wp-content/uploads/
+sites/*/wp-content/cache/
+sites/*/wp-content/backup-db/
+
+# Local by Flywheel specific
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
+npm-debug.log
+
+# Composer
+vendor/
+
+# WP-CLI completion
+wp-completion.bash
