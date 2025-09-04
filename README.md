@@ -2,6 +2,8 @@
 
 WordPress Plugin Development Environment
 
+Repository for vulcanhatch WordPress sites on local plus other build tools for WordPress plugin development.
+
 ## Purpose
 Dedicated environment for WordPress plugin development with Local by Flywheel integration.
 
